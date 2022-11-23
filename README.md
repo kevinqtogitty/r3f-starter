@@ -2,7 +2,7 @@
 
 ## Setup
 
-Run this followed commands:
+Run the following commands:
 
 ```bash
 # Install dependencies
@@ -12,7 +12,7 @@ yarn
 yarn dev
 ```
 
-## Dependencites
+## Dependencies
 
 `@react-three/fiber` - React Three Fiber
 
